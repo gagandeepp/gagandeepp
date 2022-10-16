@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gagandeep Pratihar</h1>
 <h3 align="center">I am cloud native full stack developer working at Ciena</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gagandeepp&label=Profile%20views&color=0e75b6&style=flat" alt="gagandeepp" /> </p>
+<p align="left"> [![@gagandeep's Holopin board](https://holopin.io/@gagandeep)</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gagandeepp" alt="gagandeepp" /></a> </p>
 
