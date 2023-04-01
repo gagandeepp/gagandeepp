@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gagandeep Pratihar</h1>
-<h3 align="center">I am cloud native full stack developer working at Ciena</h3>
+<h3 align="center">I am cloud native full stack developer working at Landis Gyr</h3>
 
 [![@gagandeep's Holopin board](https://holopin.me/gagandeep)](https://holopin.io/@gagandeep)
 
