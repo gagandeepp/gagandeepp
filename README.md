@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/gagandpratihar" target="blank"><img src="https://img.shields.io/twitter/follow/gagandpratihar?logo=twitter&style=for-the-badge" alt="gagandpratihar" /></a> </p>
 
-- 💬 Ask me about **Angular,React,Azure,.Net Core**
+- 💬 Ask me about **Python,Flask,FAST API,Angular,GCP/AWS/Azure,Terraform **
 
 - 📫 How to reach me **gagandeeppratihar@outlook.com**
 
